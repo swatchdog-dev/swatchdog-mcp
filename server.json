@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
   "name": "dev.swatchdog/validator",
-  "description": "On-demand design-token drift checks over MCP: send generated CSS/markup, get structured findings on declared color, radius, spacing, and type tokens against a chosen pack, with suggested token fixes.",
+  "description": "description": "On-demand MCP drift checks: declared CSS color, radius, spacing & type tokens vs a chosen pack.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/swatchdog-dev/swatchdog-mcp",
