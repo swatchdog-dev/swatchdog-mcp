@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "dev.swatchdog/validator",
   "description": "On-demand MCP drift checks: declared CSS color, radius, spacing & type tokens vs a chosen pack.",
   "version": "1.0.0",
