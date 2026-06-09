@@ -6,7 +6,7 @@
 
 ### See Swatchdog in Action
 
-<video src="[https://github.com/user-attachments/assets/YOUR_ASSET_ID](https://github.com/user-attachments/assets/121e593f-4081-4300-862e-84eec669c938)" autoplay loop muted playsinline width="100%"></video>
+https://github.com/user-attachments/assets/6ae8b242-d6c7-4a29-8892-27b067835308
 
 ---
 
