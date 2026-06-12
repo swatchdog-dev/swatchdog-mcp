@@ -9,8 +9,6 @@ service.
 ---
 Connected, keyless
 
-<img width="479" height="453" alt="Screenshot 2026-06-11 221625" src="https://github.com/user-attachments/assets/c6acfab6-92a3-4201-bd02-3861fb0d3c74" />
-
 <img width="757" height="264" alt="Screenshot 2026-06-11 230633" src="https://github.com/user-attachments/assets/389e8a17-f5bf-4316-a737-5b799e140aeb" />
 
 claude.ai classifies `check\_design\_drift` under Read-only tools from the
@@ -37,8 +35,9 @@ corrected rule.
 
 <img width="744" height="555" alt="prompt-3-empty-tokens" src="https://github.com/user-attachments/assets/55c8400a-a1e6-4060-836d-2c37d82c13aa" />
 
-With nothing to check against, Swatchdog declines rather than rubber-stamping
+> With nothing to check against, Swatchdog declines rather than rubber-stamping
 "0 violations" — a structured, actionable error, not a 5xx.
+> 
 ---
 Automated client run (every case, over the open internet)
 The same service exercised by a scripted MCP client — keyless free lane, tool
@@ -48,5 +47,6 @@ metadata, clean pass, drift caught, empty-tokens error, and the bad-key `401`:
 See `demo/part-b-transcript.txt` for the raw output.
 </details>
 ---
+
 Connector endpoint and tool reference: see the README.
 Questions: hey@swatchdog.dev.
