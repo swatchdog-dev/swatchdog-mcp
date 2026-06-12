@@ -38,11 +38,12 @@ corrected rule.
 With nothing to check against, Swatchdog declines rather than rubber-stamping
 "0 violations" — a structured, actionable error, not a 5xx.
 ---
-Automated client run (every case, over the open internet)
+> Automated client run (every case, over the open internet)
 The same service exercised by a scripted MCP client — keyless free lane, tool
 metadata, clean pass, drift caught, empty-tokens error, and the bad-key `401`:
 see `part-b-transcript.txt` for the raw output — all
 cases green.
+> 
 ---
 Connector endpoint and tool reference: see the README.
 Questions: hey@swatchdog.dev.
